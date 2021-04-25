@@ -5,5 +5,19 @@
   },
   "scripts": {
     "start": "node index.js"
-  }
+  },
+  "name": "codingdojoback",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etsurosu/CodingDojoBack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Etsurosu/CodingDojoBack/issues"
+  },
+  "homepage": "https://github.com/Etsurosu/CodingDojoBack#readme"
 }
